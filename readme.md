@@ -1,5 +1,6 @@
 # SF Fire Incidents Data Pipeline
 
+
 In this blog post, I will share my experience of working on a data analysis project using PySpark and Databricks. The project involved exploring and visualizing a large dataset of fire department calls for service in San Francisco. I will explain the steps I took to set up the cluster, load the data, perform some basic transformations and aggregations, and create various plots to answer some interesting questions.
 
 # Dataset:
